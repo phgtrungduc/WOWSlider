@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Slider\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\slider\data1\images\119037642_3414747005278818_5377003989859926598_o.jpg" />
+    <None Include="wwwroot\slider\data1\images\127650344_3536772349748480_4969770475340837155_o.jpg" />
+    <None Include="wwwroot\slider\data1\images\161519345_1592172577837960_8175230203977768390_n.jpg" />
+    <None Include="wwwroot\slider\data1\images\208229592_229995368941530_2118684450889003155_n.jpg" />
+    <None Include="wwwroot\slider\data1\images\21216304_koreanroundfacebangs.jpg" />
+    <None Include="wwwroot\slider\data1\images\228967709_4832499430112289_3763704356094558120_n.jpg" />
+    <None Include="wwwroot\slider\data1\images\238601671_134500862181940_4779772294118827908_n.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\119037642_3414747005278818_5377003989859926598_o.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\127650344_3536772349748480_4969770475340837155_o.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\161519345_1592172577837960_8175230203977768390_n.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\208229592_229995368941530_2118684450889003155_n.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\21216304_koreanroundfacebangs.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\228967709_4832499430112289_3763704356094558120_n.jpg" />
+    <None Include="wwwroot\slider\data1\tooltips\238601671_134500862181940_4779772294118827908_n.jpg" />
+    <None Include="wwwroot\slider\engine1\jquery.js" />
+    <None Include="wwwroot\slider\engine1\script.js" />
+    <None Include="wwwroot\slider\engine1\style.css" />
+    <None Include="wwwroot\slider\engine1\style.mod.css" />
+    <None Include="wwwroot\slider\engine1\wowslider.js" />
+    <None Include="wwwroot\slider\engine1\wowslider.mod.js" />
+    <None Include="wwwroot\slider\engine1\ws-ctrl-convex.eot" />
+    <None Include="wwwroot\slider\engine1\ws-ctrl-convex.svg" />
+    <None Include="wwwroot\slider\engine1\ws-ctrl-convex.ttf" />
+    <None Include="wwwroot\slider\engine1\ws-ctrl-convex.woff" />
+  </ItemGroup>
+
+</Project>

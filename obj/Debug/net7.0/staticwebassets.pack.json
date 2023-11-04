@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WOWSlider.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WOWSlider.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\119037642_3414747005278818_5377003989859926598_o.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\119037642_3414747005278818_5377003989859926598_o.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\127650344_3536772349748480_4969770475340837155_o.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\127650344_3536772349748480_4969770475340837155_o.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\161519345_1592172577837960_8175230203977768390_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\161519345_1592172577837960_8175230203977768390_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\208229592_229995368941530_2118684450889003155_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\208229592_229995368941530_2118684450889003155_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\21216304_koreanroundfacebangs.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\21216304_koreanroundfacebangs.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\228967709_4832499430112289_3763704356094558120_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\228967709_4832499430112289_3763704356094558120_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\238601671_134500862181940_4779772294118827908_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\images\\238601671_134500862181940_4779772294118827908_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\119037642_3414747005278818_5377003989859926598_o.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\119037642_3414747005278818_5377003989859926598_o.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\127650344_3536772349748480_4969770475340837155_o.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\127650344_3536772349748480_4969770475340837155_o.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\161519345_1592172577837960_8175230203977768390_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\161519345_1592172577837960_8175230203977768390_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\208229592_229995368941530_2118684450889003155_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\208229592_229995368941530_2118684450889003155_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\21216304_koreanroundfacebangs.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\21216304_koreanroundfacebangs.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\228967709_4832499430112289_3763704356094558120_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\228967709_4832499430112289_3763704356094558120_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\238601671_134500862181940_4779772294118827908_n.jpg",
+      "PackagePath": "staticwebassets\\slider\\data1\\tooltips\\238601671_134500862181940_4779772294118827908_n.jpg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\jquery.js",
+      "PackagePath": "staticwebassets\\slider\\engine1\\jquery.js"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\script.js",
+      "PackagePath": "staticwebassets\\slider\\engine1\\script.js"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\style.css",
+      "PackagePath": "staticwebassets\\slider\\engine1\\style.css"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\style.mod.css",
+      "PackagePath": "staticwebassets\\slider\\engine1\\style.mod.css"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\wowslider.js",
+      "PackagePath": "staticwebassets\\slider\\engine1\\wowslider.js"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\wowslider.mod.js",
+      "PackagePath": "staticwebassets\\slider\\engine1\\wowslider.mod.js"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.eot",
+      "PackagePath": "staticwebassets\\slider\\engine1\\ws-ctrl-convex.eot"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.svg",
+      "PackagePath": "staticwebassets\\slider\\engine1\\ws-ctrl-convex.svg"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.ttf",
+      "PackagePath": "staticwebassets\\slider\\engine1\\ws-ctrl-convex.ttf"
+    },
+    {
+      "Id": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.woff",
+      "PackagePath": "staticwebassets\\slider\\engine1\\ws-ctrl-convex.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WOWSlider.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WOWSlider.props",
+      "PackagePath": "build\\WOWSlider.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WOWSlider.props",
+      "PackagePath": "buildMultiTargeting\\WOWSlider.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WOWSlider.props",
+      "PackagePath": "buildTransitive\\WOWSlider.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
