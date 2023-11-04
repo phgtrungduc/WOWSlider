@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\BlazorApp\\WOWSlider\\WOWSlider.csproj",
+      "projectUniqueName": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\WOWSlider.csproj",
       "projectName": "WOWSlider",
-      "projectPath": "F:\\Project\\BlazorApp\\WOWSlider\\WOWSlider.csproj",
+      "projectPath": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\WOWSlider.csproj",
       "packagesPath": "C:\\Users\\phgtr\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\",
+      "outputPath": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phgtr\\AppData\\Roaming\\NuGet\\NuGet.Config",

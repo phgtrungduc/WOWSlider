@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "POYAcE5ZCIiuo8bOe3V7KAfeJd/K1e2/bdam/jjdWjw=",
+  "Hash": "VKn4F/RwaDjJ8hJkuIvHIjF06Hiw1VFl6DRgXlJHlg4=",
   "Source": "WOWSlider",
   "BasePath": "_content/WOWSlider",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WOWSlider\\wwwroot",
       "Source": "WOWSlider",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WOWSlider.styles.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WOWSlider.styles.css",
       "SourceId": "WOWSlider",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "WOWSlider.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WOWSlider.styles.css"
+      "OriginalItemSpec": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WOWSlider.styles.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WOWSlider.bundle.scp.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WOWSlider.bundle.scp.css",
       "SourceId": "WOWSlider",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "WOWSlider.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Project\\BlazorApp\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WOWSlider.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WOWSlider.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\css\\site.css",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\favicon.png",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\favicon.png",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\119037642_3414747005278818_5377003989859926598_o.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\119037642_3414747005278818_5377003989859926598_o.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/119037642_3414747005278818_5377003989859926598_o.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\119037642_3414747005278818_5377003989859926598_o.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\127650344_3536772349748480_4969770475340837155_o.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\127650344_3536772349748480_4969770475340837155_o.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/127650344_3536772349748480_4969770475340837155_o.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\127650344_3536772349748480_4969770475340837155_o.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\161519345_1592172577837960_8175230203977768390_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\161519345_1592172577837960_8175230203977768390_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/161519345_1592172577837960_8175230203977768390_n.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\161519345_1592172577837960_8175230203977768390_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\208229592_229995368941530_2118684450889003155_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\208229592_229995368941530_2118684450889003155_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/208229592_229995368941530_2118684450889003155_n.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\208229592_229995368941530_2118684450889003155_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\21216304_koreanroundfacebangs.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\21216304_koreanroundfacebangs.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/21216304_koreanroundfacebangs.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\21216304_koreanroundfacebangs.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\228967709_4832499430112289_3763704356094558120_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\228967709_4832499430112289_3763704356094558120_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/228967709_4832499430112289_3763704356094558120_n.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\228967709_4832499430112289_3763704356094558120_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\images\\238601671_134500862181940_4779772294118827908_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\images\\238601671_134500862181940_4779772294118827908_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/images/238601671_134500862181940_4779772294118827908_n.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\images\\238601671_134500862181940_4779772294118827908_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\119037642_3414747005278818_5377003989859926598_o.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\119037642_3414747005278818_5377003989859926598_o.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/119037642_3414747005278818_5377003989859926598_o.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\119037642_3414747005278818_5377003989859926598_o.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\127650344_3536772349748480_4969770475340837155_o.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\127650344_3536772349748480_4969770475340837155_o.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/127650344_3536772349748480_4969770475340837155_o.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\127650344_3536772349748480_4969770475340837155_o.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\161519345_1592172577837960_8175230203977768390_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\161519345_1592172577837960_8175230203977768390_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/161519345_1592172577837960_8175230203977768390_n.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\161519345_1592172577837960_8175230203977768390_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\208229592_229995368941530_2118684450889003155_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\208229592_229995368941530_2118684450889003155_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/208229592_229995368941530_2118684450889003155_n.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\208229592_229995368941530_2118684450889003155_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\21216304_koreanroundfacebangs.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\21216304_koreanroundfacebangs.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/21216304_koreanroundfacebangs.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\21216304_koreanroundfacebangs.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\228967709_4832499430112289_3763704356094558120_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\228967709_4832499430112289_3763704356094558120_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/228967709_4832499430112289_3763704356094558120_n.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\228967709_4832499430112289_3763704356094558120_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\238601671_134500862181940_4779772294118827908_n.jpg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\data1\\tooltips\\238601671_134500862181940_4779772294118827908_n.jpg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/data1/tooltips/238601671_134500862181940_4779772294118827908_n.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\data1\\tooltips\\238601671_134500862181940_4779772294118827908_n.jpg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\jquery.js",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\jquery.js",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/jquery.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\jquery.js"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\script.js",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\script.js",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/script.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\script.js"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\style.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\style.css",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/style.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\style.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\style.mod.css",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\style.mod.css",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/style.mod.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\style.mod.css"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\wowslider.js",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\wowslider.js",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/wowslider.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\wowslider.js"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\wowslider.mod.js",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\wowslider.mod.js",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/wowslider.mod.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\wowslider.mod.js"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.eot",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.eot",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/ws-ctrl-convex.eot",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\ws-ctrl-convex.eot"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.svg",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.svg",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/ws-ctrl-convex.svg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\ws-ctrl-convex.svg"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.ttf",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.ttf",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/ws-ctrl-convex.ttf",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\slider\\engine1\\ws-ctrl-convex.ttf"
     },
     {
-      "Identity": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.woff",
+      "Identity": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\slider\\engine1\\ws-ctrl-convex.woff",
       "SourceId": "WOWSlider",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Project\\BlazorApp\\WOWSlider\\wwwroot\\",
+      "ContentRoot": "F:\\Project\\BlazorApp\\New folder\\WOWSlider\\wwwroot\\",
       "BasePath": "_content/WOWSlider",
       "RelativePath": "slider/engine1/ws-ctrl-convex.woff",
       "AssetKind": "All",

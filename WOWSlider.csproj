@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Slider\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\slider\data1\images\119037642_3414747005278818_5377003989859926598_o.jpg" />
     <None Include="wwwroot\slider\data1\images\127650344_3536772349748480_4969770475340837155_o.jpg" />
     <None Include="wwwroot\slider\data1\images\161519345_1592172577837960_8175230203977768390_n.jpg" />
